@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">
-  Hi, I'm Léon Àmi Wagner
+  Hi, I'm Léon
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -82,13 +82,39 @@ Here are some of my projects that showcase my skills and interests.
 
 ### 🚀 My Journey (Timeline)
 
--   🎓 **M.Sc. in Computer Science** @ *Humboldt University of Berlin, Germany*
--   🎓 **M.Sc. in Artificial Intelligence (Erasmus)** @ *University of Barcelona, Spain*
--   👨‍💻 **Full Stack Developer** @ *Fraunhofer IPK, Berlin, Germany*
--   B.Sc. **Thesis: EU Digital Battery Pass Prototype** @ *Fraunhofer IPK, Berlin, Germany*
--   🎓 **B.Sc. in Computational Engineering** @ *HTW Berlin, Germany*
--   👨‍💻 **Web Developer** @ *HTW Berlin, Germany*
--   🌍 **Volunteer - Biodiversity Contact Person** @ *Greenpeace, Mainz, Germany*
+-   🎓 **M.Sc. in Artificial Intelligence (Erasmus Exchange)**
+    <br>*University of Barcelona, Spain | February 2025 - June 2025*
+    <br>Focus: Advanced NLP, Deep Learning
+    <br>**Skills**: `Advanced NLP`, `Multi-Agent System Design`, `Deep Learning`
+
+-   🎓 **M.Sc. in Computer Science**
+    <br>*Humboldt University of Berlin, Germany | April 2023 - December 2025*
+    <br>Focus: Natural Language Processing. GPA: 1.7 (equivalent to ~3.3 GPA in the US system)
+    <br>**Skills**: `Natural Language Processing`, `Machine Learning`, `Business Process Automation`, `Process Mining`, `Deep Learning`
+
+-   👨‍💻 **Bachelor Thesis**
+    <br>*Fraunhofer IPK, Berlin, Germany | January 2023 - April 2023*
+    <br>Designed and developed the first prototype for the upcoming EU Digital Product Passport for traction batteries, set to launch in 2027.
+    <br>**Skills**: `Software Engineering`, `Docker`, `BPMN`
+
+-   👨‍💻 **Full Stack Developer**
+    <br>*Fraunhofer IPK, Berlin, Germany | September 2022 - January 2025*
+    <br>Back- and Frontend development using the MERN stack, maintenance and enhancement of the main software 'process assistant' (including integration of RAG chatbots), and agile collaboration within a Scrum team.
+    <br>**Skills**: `Full-Stack Development`, `MERN Stack`, `Software Engineering`, `Project Management`, `Scrum`, `CI/CD`
+
+-   👨‍💻 **Web Developer**
+    <br>*HTW Berlin, Germany | June 2021 - August 2022*
+    <br>Core team member for the implementation of an improved campus management system.
+    <br>**Skills**: `Web Development`
+
+-   🎓 **B.Sc. in Computational Science and Engineering**
+    <br>*HTW Berlin, Germany | April 2020 - July 2023*
+    <br>Focus: Software Engineering and Embedded Systems. GPA: 1.5 (equivalent to ~3.5 GPA in the US system)
+    <br>**Skills**: `Database Systems`, `Embedded Systems`, `Mechatronics`, `Software Engineering`, `Algorithms & Data Structures`, `Project Management`
+
+-   🌍 **Volunteer - Biodiversity Contact Person**
+    <br>*Greenpeace, Mainz, Germany | August 2019 - March 2021*
+    <br>Served as Biodiversity contact person for environmental initiatives.
 
 ---
 
