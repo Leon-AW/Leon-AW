@@ -3,13 +3,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="https://www.linkedin.com/in/leon-ami-wagner/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="https://www.leonamiwagner.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4682B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="mailto:leon.ami.wagner@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="YOUR_CV_LINK.pdf" target="_blank">
+  <a href="https://www.leonamiwagner.com/cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-CV-1DB954?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
@@ -94,13 +97,16 @@ Here are some of my projects that showcase my skills and interests.
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious vision. Feel free to connect with me!
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="https://www.linkedin.com/in/leon-ami-wagner/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="https://www.leonamiwagner.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4682B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="mailto:leon.ami.wagner@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="YOUR_CV_LINK.pdf" target="_blank">
+  <a href="https://www.leonamiwagner.com/cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-CV-1DB954?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
