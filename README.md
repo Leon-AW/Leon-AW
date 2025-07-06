@@ -62,8 +62,8 @@ My core interest lies in **Transformers and Large Language Models**. I thrive on
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leon-AW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Léon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-AW&layout=compact&theme=tokyonight" alt="Léon's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leon-AW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,stars" alt="Léon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-AW&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Léon's Top Languages" />
 </p>
 
 ---
