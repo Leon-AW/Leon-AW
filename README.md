@@ -39,17 +39,17 @@ My core interest lies in **Transformers and Large Language Models**. I thrive on
 <p align="center">
   <b>Artificial Intelligence & Machine Learning</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn,opencv,keras,jupyter" alt="AI & ML Skills" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv" alt="AI & ML Skills" />
   </a>
   <br><br>
-  <b>Software & Web Development</b><br>
+  <b>Web & Software Development</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,java,cplusplus,html,css" alt="Web & Software Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind,html,css,java,cpp,cs" alt="Web & Software Skills" />
   </a>
   <br><br>
-  <b>Developer Tools</b><br>
+  <b>Developer Tools & Platforms</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Developer Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,linux,arduino,raspberrypi,vercel" alt="Developer Tools & Platforms" />
   </a>
 </p>
 
